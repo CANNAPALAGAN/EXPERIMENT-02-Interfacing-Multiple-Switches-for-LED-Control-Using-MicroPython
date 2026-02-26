@@ -32,6 +32,7 @@ USB Cable
 
 ## THEORY
 
+<img width="1293" height="744" alt="image" src="https://github.com/user-attachments/assets/38d8e701-7a99-46aa-8afe-f1ff219c8121" />
 
 
 FIGURE-01: RASPBERRY PI PICO PINOUT DIAGRAM
